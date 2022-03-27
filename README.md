@@ -1,1 +1,1 @@
-# HackerRank_quiz_answer
+# HackerRank quiz answer
